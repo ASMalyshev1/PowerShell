@@ -1,0 +1,5 @@
+ip3.asmalyshev.ru 23
+WAIT "Password: "
+SEND "0Cm24ae1\m"
+WAIT ">"
+SEND "sys reboot\m"

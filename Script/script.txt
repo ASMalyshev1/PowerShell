@@ -1,0 +1,8 @@
+192.168.0.50 23
+WAIT "Login : "
+SEND "admin\m"
+WAIT "Please Select 1 - 8:"
+SEND "8\m"
+WAIT "Sure to Reboot?(Y/N):"
+SEND "y\m"
+WAIT ">"

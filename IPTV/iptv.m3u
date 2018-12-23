@@ -1,0 +1,435 @@
+﻿#EXTM3U
+#EXTINF:0,#[GSN GROUP] SlyNetKids HD [PremiumSlyNet]
+https://live.slynet.tv/gsnpromoiptv?.m3u8
+#EXTINF:0,#[GSN GROUP] SlyNetTopCinema HD [PremiumSlyNet]
+https://live.slynet.tv/gsnpromoiptv?.m3u8
+#EXTINF:0,#[GSN GROUP] SlyNetTopHorror HD [PremiumSlyNet]
+https://live.slynet.tv/gsnpromoiptv?.m3u8
+#EXTINF:0,#[GSN GROUP] SlyNetZmuz HD [PremiumSlyNet]
+https://live.slynet.tv/gsnpromoiptv?.m3u8
+#EXTINF:0,#[INTERNET TV] BEST FILMS HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,#[INTERNET TV] BOX CINEMA HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,#[INTERNET TV] BOX KIDS HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,#[INTERNET TV] Страх HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,#[INTERNET TV] Фантастика HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,24 канал HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
+#EXTINF:0,360TuneBox HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,43 HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF:-1,43 канал HD
+http://hls.peers.tv/streaming/43_kanal/126/copy/playlist.m3u8
+#EXTINF:-1,78 HD
+http://78.gcdn.co/out_hls/877_13_720n/index.m3u8
+#EXTINF:0,A HOME OF HBO 2 HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,A HOME OF HBO HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,A1 HD[PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Akudji TV HD
+http://stream1.cybergame.tv:8080/live/akudjio.m3u8
+#EXTINF:-1,Amedia Premium HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/164/index.m3u8
+#EXTINF:0,Animal Planet HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Animal Planet Russia HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/110/index.m3u8
+#EXTINF:0,BeIn Sports 1 HD [AR] [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,BeIn Sports 10 HD [AR] [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,BeIn Sports 11 HD [AR] [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,BeIn Sports 12 HD [AR] [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,BeIn Sports 2 HD [AR] [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,BeIn Sports 3 HD [AR] [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,BeIn Sports 4 HD [AR] [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,BeIn Sports 5 HD [AR] [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,BeIn Sports 9 HD [AR] [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Bein Sports HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Bollywood HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/171/index.m3u8
+#EXTINF:0,Bollywood HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Bridge HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Bridge TV HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/115/index.m3u8
+#EXTINF:0,Brodilo TV HD
+http://brodilo.tv/channel.php
+#EXTINF:0,Canal+ Sport 2 HD [PL] [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Canal+ Sport HD [PL] [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Cartoon Network HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/290/index.m3u8
+#EXTINF:0,Discovery HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Discovery Investigation HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Discovery Science HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Discovery Showcase Europe HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,DocuBox HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/940/index.m3u8
+#EXTINF:0,DocuBox HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,DTX HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Eleven Sports 1 HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Eleven Sports 2 HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Eleven Sports 3 HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Eleven Sports 4 HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,EU MUSIC HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Eurochannel HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/159/index.m3u8
+#EXTINF:0,Eurosport 1 HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/77/index.m3u8
+#EXTINF:0,Eurosport 2 HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Eurosport Gold HD  [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Fashion TV HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Fast&FunBox HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,FightBox HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,FilmBox Arthouse HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,FilmZone+ HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Fine Living Europe HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/942/index.m3u8
+#EXTINF:0,Fine Living HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Food Network HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Food Network Russia HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/861/index.m3u8
+#EXTINF:0,Fox HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Fox Life HD[PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Fox Russia HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/68/index.m3u8
+#EXTINF:0,Fuel TV HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Ginger HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,History 2 HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,History HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/165/index.m3u8
+#EXTINF:0,History HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,ID Fashion HD
+http://95.67.8.22/hls/idfashion/index.m3u8
+#EXTINF:0,K1 Movie Channel HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,K2 Movie Channel HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Kronehit HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:0,MCM TOP HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Mezzo Live HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,MGM HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,MGM HD Russia
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/154/index.m3u8
+#EXTINF:0,Most Video TV HD
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1,MTV Live HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/26/index.m3u8
+#EXTINF:0,Museum HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Nat Geo HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/150/index.m3u8
+#EXTINF:0,Nat Geo Wild HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,National Geographic HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/161/index.m3u8
+#EXTINF:-1,Nautical Channel HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/908/index.m3u8
+#EXTINF:0,NBA HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,NewsOne HD
+http://77.120.104.64/hls/newsone-hd/stream.m3u8
+#EXTINF:0,NHL HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/30/index.m3u8
+#EXTINF:0,Outdoor channel HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Paramount Channel HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Paramount Comedy HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,RFE/RL Russian HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/798/index.m3u8
+#EXTINF:0,RTG HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,RTG TV HD (Russian Travel Guide)
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/152/index.m3u8
+#EXTINF:-1,RTI HD
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+#EXTINF:-1,RU TV HD
+http://live-rmg.cdnvideo.ru/rmg/rutv_hd.sdp/playlist.m3u8
+#EXTINF:-1,Russia Today HD
+http://cdn-01.bonus-tv.ru/btv/rttv/type/user/devname/LG-SmartTV/devid/LG-1469118640/eol/20200101T0000/hash/d962836f9b6019fd17a5200dac1973a97044ead2/playlist.m3u8
+#EXTINF:0,Setanta Sports HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Setanta Sports+ HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Sky Sport HD 1 [DE] [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Sky Sport HD 2 [DE] [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Sky Sport News HD [DE] [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Sony HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Spike HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Super Tennis HD[PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,TLC HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/167/index.m3u8
+#EXTINF:0,TLC HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Travel Channel HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/169/index.m3u8
+#EXTINF:0,Travel Channel HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Travel+ Adventure HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,TV1000 Action HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,TV1000 HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,TV1000 Русское кино HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Viasat Explore HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Viasat Football HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Viasat Golf HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Viasat Motor HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Viasat Nature/History HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/73/index.m3u8
+#EXTINF:0,Viasat Nature/History HD[ PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Viasat Sport East HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/75/index.m3u8
+#EXTINF:0,VIASAT Sport HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,VIP Comedy HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/70/index.m3u8
+#EXTINF:0,VIP Comedy HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,VIP Megahit HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/71/index.m3u8
+#EXTINF:0,VIP Megahit HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,VIP Premiere HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,VIP Premium HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/72/index.m3u8
+#EXTINF:-1,World Fashion HD
+http://cdn-01.bonus-tv.ru:8080/wfcint/index.m3u8
+#EXTINF:-1,World Fashion RU HD
+http://cdn-01.bonus-tv.ru:8080/wfcru/index.m3u8
+#EXTINF:-1,Zik HD
+http://live-zik-hls1.cosmonova.net.ua/hls/zik_ua_hi/index.m3u8
+#EXTINF:0,Авто 24 HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Астрахань.Ru HD
+http://83.234.104.142/astrakhanru-hd/index.m3u8
+#EXTINF:0,Большая Азия HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,В Мире Животных HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Волгоград 1 HD
+http://volgogradtv1.cdnvideo.ru/volgogradtv1/volgogradtv1.sdp/playlist.m3u8
+#EXTINF:0,Глазами Туриста HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Громадське HD
+http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
+#EXTINF:0,Дождь HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Дом Кино Премиум HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/114/index.m3u8
+#EXTINF:0,Дом Кино Премиум HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Думская TV HD (Одесса)
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska/playlist.m3u8
+#EXTINF:0,Еда HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,ЖАРА HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Живая природа HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Июнь HD
+rtmp://46.172.110.19//june
+#EXTINF:0,Июнь HD (Междуреченск)
+rtmp://46.172.110.19//june
+#EXTINF:0,Карапуз ТВ HD
+http://autopilot.myowntv.org/content/33418/index.m3u8
+#EXTINF:0,Кино ТВ HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Кинозал HD
+http://serv24.vintera.tv:8081/timart/hd14/playlist.m3u8
+#EXTINF:0,Киноменю HD
+http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+#EXTINF:0,Кинопоказ HD1 [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Кинопоказ HD2 [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,КиноПремиум HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Кинопремьера HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/286/index.m3u8
+#EXTINF:-1,Конный Мир HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/112/index.m3u8
+#EXTINF:-1,Крым 1 HD
+http://vid.techbee.pro:8080/1tvcrimea/index.m3u8
+#EXTINF:-1,Крым 24 HD
+http://vid.techbee.pro:8080/crimea24/index.m3u8
+#EXTINF:-1,КХЛ HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/291/index.m3u8
+#EXTINF:-1,Любимый HD (KG)
+http://77.220.204.124:1935/live/live.stream/playlist.m3u8
+#EXTINF:-1,Матч! HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/113/index.m3u8
+#EXTINF:-1,Матч! Арена HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/289/index.m3u8
+#EXTINF:0,Матч! Арена HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Матч! Игра HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/287/index.m3u8
+#EXTINF:0,Матч! Игра HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Матч! Наш Футбол HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Матч!Футбол 1 HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/29/index.m3u8
+#EXTINF:-1,Матч!Футбол 2 HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/23/index.m3u8
+#EXTINF:-1,Матч!Футбол 3 HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/24/index.m3u8
+#EXTINF:0,Между.Net HD
+http://212.77.128.179:8089/www_mezhdunet/mezhdunet_hd/playlist.m3u8
+#EXTINF:-1,Мир 24 HD
+http://hls.peers.tv/streaming/mir24hd/126/copy/playlist.m3u8
+#EXTINF:-1,Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:0,Мужское кино HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Мультик HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Наш Детектив HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Наш Кинороман HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Наш Футбол HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/25/index.m3u8
+#EXTINF:-1,Наша Сибирь HD
+http://hls.peers.tv/streaming/nasha_sibir_hd/16/copy/playlist.m3u8
+#EXTINF:0,Наше Любимое HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Новое Телевидение HD
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1,НТВ HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/109/index.m3u8
+#EXTINF:0,НТВ HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,О2 ТВ HD
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8
+#EXTINF:0,Остросюжетное HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Открытый HD
+http://77.232.128.68/bks.m3u8
+#EXTINF:0,Охотник и Рыболов HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Первый HD
+http://37.29.108.2/adlive/211/playlist.m3u8
+#EXTINF:-1,Первый HD +4
+http://hls.peers.tv/streaming/1kanal_hd/16/gvh1w/playlist.m3u8
+#EXTINF:-1,Первый канал  HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/156/index.m3u8
+#EXTINF:0,Первый канал HD +4 [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Первый Музыкальный HD BY
+http://rtmp.one.by:1300
+#EXTINF:-1,Первый Музыкальный RU HD BY
+http://rtmp.one.by:2300
+#EXTINF:0,Планета HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Рен HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Россия 1 HD
+http://195.88.16.15/russiahd/index.m3u8
+#EXTINF:0,Русский Роман HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Русский Экстрим HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Сделано в Кузбассе HD
+http://hls.peers.tv/streaming/sdelano_v_kuzbasse_hd/16/copy/playlist.m3u8
+#EXTINF:0,СТВ HD [BY] [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,СТРК HD
+http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
+#EXTINF:-1,ТВ Центр Красноярск HD
+http://www.tck.tv/hls_hd/hd.m3u8
+#EXTINF:0,ТВ3 HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:0,Теледом HD
+rtmp://91.209.128.203:1935/live/teledom3
+#EXTINF:0,Телеканал Футбол HD [RU] [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Тлум HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/292/index.m3u8
+#EXTINF:0,Тлум HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,ТНТ HD
+http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/116/index.m3u8
+#EXTINF:0,ТНТ HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,Трофей HD
+http://str.trofey.net:1935/live/2_max.smil/chunklist_w1001411868_b2000000.m3u8?id=2&session=1
+#EXTINF:0,Чернівецький Промінь HD
+http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:0,Южная Волна HD
+http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
